@@ -30,6 +30,11 @@
  
 ---
 ### About me:
+ - I'm a freshman at the University of Information Technology in Vietnam, majoring in Computer Science.
+ - I'm frequently involved in a variety of extracurricular activities to develop my technical expertise and hone other soft skills.
+ - I enjoy solving math problems and playing games that require logical thinking, such as sudoku, rubik, and minesweeper...
+  
+  
 ---
 ### 
 
