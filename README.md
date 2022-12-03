@@ -30,11 +30,25 @@
  
 ---
 ### About me:
- - I'm a freshman at the University of Information Technology in Vietnam, majoring in Computer Science.
- - I'm frequently involved in a variety of extracurricular activities to develop my technical expertise and hone other soft skills.
- - I enjoy solving math problems and playing games that require logical thinking, such as sudoku, rubik, and minesweeper...
+ - :school:I'm currently the first year of Computer Science in University of Information Technology.
+ - :robot:I'm frequently involved in a variety of extracurricular activities to develop my technical expertise and hone other soft skills.
+ - :speech_balloon:I enjoy solving math problems and playing games that require logical thinking, such as sudoku, rubik, and minesweeper...
    
 ---
-### 
+### Languages and Tools:
+<div> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width ="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" width="40" />
+</div>
 
-        
+---
+### My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuongan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuongan)](https://github.com/kuongan/github-readme-stats)        
+
+---
+###
