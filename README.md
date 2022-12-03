@@ -25,7 +25,7 @@
 </div>      
 
 <div id="banner" align="center" >
-      <img src="https://media0.giphy.com/media/qqZAaH2eWU168D19pG/giphy.gif?cid=ecf05e47e94wwkc5b7t4udlve8vsneymje27a1yvpdrbhqn5&rid=giphy.gif&ct=s" />
+      <img src="https://media3.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=ecf05e47m2d4voyvuy7eaorcbi6nxh51wjg15tpy9euckond&rid=giphy.gif&ct=s" />
 </div>
  
 ---
@@ -33,8 +33,7 @@
  - I'm a freshman at the University of Information Technology in Vietnam, majoring in Computer Science.
  - I'm frequently involved in a variety of extracurricular activities to develop my technical expertise and hone other soft skills.
  - I enjoy solving math problems and playing games that require logical thinking, such as sudoku, rubik, and minesweeper...
-  
-  
+   
 ---
 ### 
 
