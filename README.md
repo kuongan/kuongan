@@ -47,9 +47,10 @@
 
 ---
 ### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuongan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuongan&hide_border=true)](https://git.io/streak-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuongan&theme=tokyonight&hide_border=true)](https://github.com/kuongan/github-readme-stats)        
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuongan&hide_border=true)](https://github.com/kuongan/github-readme-stats)        
+
 
 ---
 ###
