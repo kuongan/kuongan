@@ -1,5 +1,5 @@
 <div id="header" align="center">
-      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474rfhxv6xphyozibhrn15np3nyw77ns5rdktqrxus&rid=giphy.gif&ct=g" height="200" />
+      <img src="https://media0.giphy.com/media/oCMormEYPdbb0snctw/giphy.gif?cid=ecf05e47hif2a40fm46f41tuehu0wk1jrru65jgiwe9uybss&rid=giphy.gif&ct=s" height="200" />
   <h1>
      kuongan
         <img src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611b41cd804554a7c202b8150417df16f8966fe14cb&rid=giphy.gif&ct=s" width=40px />
@@ -25,8 +25,9 @@
 </div>      
 
 <div id="banner" align="center" >
-      <img src="https://media3.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=ecf05e47m2d4voyvuy7eaorcbi6nxh51wjg15tpy9euckond&rid=giphy.gif&ct=s" />
-</div>
+      <img src="https://media3.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=ecf05e47m2d4voyvuy7eaorcbi6nxh51wjg15tpy9euckond&rid=giphy.gif&ct=s"  width="250" />
+      <img src="https://media1.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif?cid=790b76110aa238c3b1f9c5fe487e1b707014039524a726dd&rid=giphy.gif&ct=s"  width="200" />
+</div>     
  
 ---
 ### About me:
@@ -48,7 +49,7 @@
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuongan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuongan)](https://github.com/kuongan/github-readme-stats)        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuongan&theme=tokyonight&hide_border=true)](https://github.com/kuongan/github-readme-stats)        
 
 ---
 ###
